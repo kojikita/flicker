@@ -1,0 +1,21 @@
+{
+  "name": "flicker",
+  "version": "0.0.0",
+  "authors": [
+    "koji.kita"
+  ],
+  "description": "get picture from flicker",
+  "main": "index.html",
+  "keywords": [
+    "flicker"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
