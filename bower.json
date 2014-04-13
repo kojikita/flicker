@@ -17,8 +17,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jquery": git@github.com:jquery/jquery.git
-  }
+  ]
 }
